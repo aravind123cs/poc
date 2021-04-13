@@ -1,0 +1,28 @@
+{
+    "light": {},
+    "dark": {
+        "primary": "#0FC1A1",
+        "secondary": "#FF5F00",
+        "dark": "#181D23",
+        "black": "#000000",
+        "white": "#FFFFFF",
+        "textColor": "#DBDBDB",
+        "red": "#FF0000",
+        "darkBackground": "#0E1114",
+        "subTextColor": "#636B74",
+        "lightBorder": "#8AA8C7",
+        "borderColorGrey": "#DBDBDB90",
+        "secondaryRed": "#E50C4F",
+        "gold": "#FFC043",
+        "secondaryGold": "#FFB300",
+        "orange": "#FF5F00",
+        "opacOrange": "#FF5F0050",
+        "opacPrimary": "#0FC1A139",
+        "opacRed": "#E50C4F50",
+        "grey": "#707070",
+        "borderColor": "#252B31",
+        "disable": "#70707070",
+        "skyBlue": "#1EC0DE",
+        "lightTextColor": "#F3F4F6"
+    }
+}

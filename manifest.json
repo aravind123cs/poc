@@ -1,0 +1,12 @@
+{
+    "fontsVersion": 1,
+    "splashVersion": 1,
+    "colorsVersion": 1,
+    "localizationVersion": 1,
+    "iconsVersion": 3,
+    "fontsZip": "https://anandbose.gitlab.io/poc/configuration/v1/fonts.zip",
+    "iconsZip": "https://anandbose.gitlab.io/poc/configuration/v1/icons.zip",
+    "splash": "https://anandbose.gitlab.io/poc/configuration/v1/splash.jpg",
+    "colors": "https://anandbose.gitlab.io/poc/configuration/v1/colors.json",
+    "localization": "https://anandbose.gitlab.io/poc/configuration/v1/localization.json"
+}
